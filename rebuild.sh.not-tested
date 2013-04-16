@@ -1,0 +1,5 @@
+mv _site/.git tmp/
+./site clean
+./site build
+mv tmp/.git _site/
+cp CNAME _site/
