@@ -1,6 +1,7 @@
 ---
 title: Macros are Imperative. Formulas are Functional.
 author: Henri
+excerpt: Excel...
 ---
 
 For years I've been preaching the virtues of functional programming to my
