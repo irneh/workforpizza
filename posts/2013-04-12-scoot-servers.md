@@ -4,10 +4,9 @@ author: Henri
 ---
 
 This is part 1 in a series detailing the systems and application architecture
-running [Scoot](http://scoot.io). Scoot's core services are on Amazon Web
+running [Scoot](http://scoot.io). The core services are on Amazon Web
 Services (AWS). This article describes how the Elastic Computing Cloud (EC2)
-servers are built and configured. This post is one half how we did it and
-another half how you can do it.
+servers are built and configured.
 
 #### Operating System
 
@@ -115,3 +114,5 @@ sorry.
 #### Other Articles in the Series
 
 [Scoot Architecture Part 2 - Application Stack](../scoot-stack/)
+
+More articles to come...

@@ -4,9 +4,8 @@ author: Henri
 ---
 
 This is part 2 in a series detailing the systems and application architecture
-running [Scoot](http://scoot.io). Scoot's core services are on Amazon Web
-Services (AWS). This article describes the application stack.
-This post is one half how we did it and another half how you can do it.
+running [Scoot](http://scoot.io). The core services are on Amazon Web
+Services (AWS). This article is an overview of the application stack.
 
 #### Topology, with Generics
 
@@ -143,9 +142,7 @@ requests, renders the photos and clears the queue.
 back end for Celery. I can't help but quote
 [DevOps Borat](https://twitter.com/DEVOPS_BORAT/status/163016374023761920):
 
-```
-If RabbitMQ is answer, you are ask wrong question.
-```
+> If RabbitMQ is answer, you are ask wrong question.
 
 If you're new to the asynchronous job & message queue world it may take some
 time to get things working right but once you get over that hurdle these things
