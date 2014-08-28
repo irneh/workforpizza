@@ -1,12 +1,10 @@
-## NOT TESTED
-
-mv _site/.git      extras/
-mv _site/CNAME     extras/
-mv _site/README.md extras/
+mv _site/.git      tmp
+mv _site/CNAME     tmp
+mv _site/README.md tmp
 
 ./site clean
 ./site build
 
-mv extras/.git      _site/
-mv extras/CNAME     _site/
-mv extras/README.md _site/
+mv tmp/.git      _site
+mv tmp/CNAME     _site
+mv tmp/README.md _site
