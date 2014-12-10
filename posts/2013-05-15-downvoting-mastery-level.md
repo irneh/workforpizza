@@ -8,7 +8,6 @@ excerpt: [...]
 > <cite>me, as often as possible</cite>
 
 I wrote a piece about inadvertently bringing F/OSS into Enterprise via
-
 JavaScript libraries. The piece seemed well received and drew comments
 about Linux and such but not about JavaScript. Once the comments came the
 downvotes came. I realized the piece wasn't that well articulated but were the
