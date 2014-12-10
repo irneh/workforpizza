@@ -1,0 +1,90 @@
+/* Table of Content
+==================================================
+	#Reset & Basics
+	#Basic Styles
+	#Site Styles
+	#Typography
+	#Links
+	#Lists
+	#Images
+	#Buttons
+	#Forms
+	#Misc */
+
+
+/* #Reset & Basics
+================================================== */
+
+
+/* #Basic Styles
+================================================== */
+	body {
+    font-family: "PT Serif", "Georgia", "Times New Roman", serif;
+  }
+
+  pre, code {
+    font-family: Monaco, Courier, monospace;
+    font-size: 12px;
+  }
+
+  pre {
+  }
+
+  code {
+  }
+
+  pre code {
+  }
+
+/* #Typography
+================================================== */
+	h1, h2, h3, h4, h5, h6 {
+    font-family: "PT Sans", sans-serif;
+  }
+
+  blockquote, blockquote p {
+    font-size: 16px;
+    color: #777;
+    font-style: italic;
+  }
+  blockquote { margin: 0 0 20px; padding: 9px 20px 0 19px; border-left: 1px solid #ddd; }
+
+/* #Links
+================================================== */
+  a {
+    color: inherit;
+    text-decoration: none;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #a3becc;
+  }
+
+  a:hover {
+    color:#bf0000;
+  }
+
+  .homelink {
+    border: none;
+  }
+
+/* #Lists
+================================================== */
+
+  ul {
+    list-style: circle;
+  }
+
+/* #Images
+================================================== */
+
+
+/* #Buttons
+================================================== */
+
+
+/* #Forms
+================================================== */
+
+
+/* #Misc
+================================================== */
