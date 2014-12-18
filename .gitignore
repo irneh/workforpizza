@@ -1,5 +1,6 @@
 _cache
 _site
+.DS_Store
 drafts
 site
 site.o
