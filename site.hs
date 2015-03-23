@@ -14,6 +14,10 @@ main = hakyll $ do
         route   idRoute
         compile compressCssCompiler
 
+    match "files/*" $ do
+        route   idRoute
+        compile copyFileCompiler
+
     match "404.html" $ do
         route idRoute
         compile $ do
