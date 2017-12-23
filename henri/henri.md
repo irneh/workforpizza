@@ -31,13 +31,10 @@ Systems engineer of a startup building a web and mobile application.
 - Set up and managed all the server environments and application services
   including OS, web, app, cache and database services, load balancers, DNS, content delivery
   network, process and system monitors, message broker and task queues.
-
 - Designed the overall application architecture, reviewed client and
   server-side code and prototyped the mobile application.
-
 - Established and tested systems failover across data centers. Performed load
   and penetration testing. Established auto-scaling.
-
 - Performed firewall management and SSL certificate management at the load
   balancer, web server and database layers.
 
