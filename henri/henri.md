@@ -41,7 +41,7 @@ Systems engineer of a startup building a web and mobile application.
 - Performed firewall management and SSL certificate management at the load
   balancer, web server and database layers.
 
-### Odd jobs across public and private sectors
+### Previously across public and private sectors
 
 - End to end BI
   - Capacity, HA and DR planning. 
