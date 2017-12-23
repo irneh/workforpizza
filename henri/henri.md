@@ -13,7 +13,7 @@ gaming, corrections, B2B.
 #### [Pulselocker](https://pulselocker.com) 2015 - 2017
 
 Primary systems engineer of a company delivering music streaming, search and
-discovery. Did most everything but code the API. Responsible on:
+discovery. Responsible on:
 
 - Data center work; Cisco Meraki switches, storage pods, firewalls, (etc.?).
 - AWS -- IAM, EC2, S3, SNS, SES (etc.?).
