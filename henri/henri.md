@@ -72,5 +72,3 @@ Fluent English and French; practical Spanish.
 ### Extracurriculars
 
 Photography, cycling, hiking.
-
-(Machine generated Word document [here](./henri.docx).)
