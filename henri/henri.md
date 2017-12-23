@@ -15,10 +15,10 @@ gaming, corrections, B2B.
 Primary systems engineer of a company delivering music streaming, search and
 discovery. Responsible on:
 
-- Data center work; Cisco Meraki switches, storage pods, firewalls, (etc.?).
-- AWS -- IAM, EC2, S3, SNS, SES (etc.?).
-- Nginx web behind HAProxy; DDOS rate limiting/blacklisting.
-- Managements of PostgreSQL, ElasticSearch, Couchbase and Cassandra data stores.
+- Data center work; Cisco Meraki switches, storage pods, firewall.
+- AWS -- IAM, EC2, S3, SNS, SES ...
+- Nginx web behind HAProxy; DDOS rate limiting & blacklisting.
+- Management of PostgreSQL, ElasticSearch, Couchbase and Cassandra data stores.
 - Debug and perf testing optimizitations of Python & Node API.
 - Fiddling with Angular front end.
 
