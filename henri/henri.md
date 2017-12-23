@@ -19,7 +19,7 @@ discovery. Responsible on:
 - AWS -- IAM, EC2, S3, SNS, SES ...
 - Nginx web behind HAProxy; DDOS rate limiting & blacklisting.
 - Management of PostgreSQL, ElasticSearch, Couchbase and Cassandra data stores.
-- Debug and perf testing optimizitations of Python & Node API.
+- Debug and perf testing optimizations of Python & Node API.
 - Fiddling with Angular front end.
 
 #### [Scoot](https://scoot.io) 2012 - 2015
@@ -29,8 +29,9 @@ Co-founder of a startup building a web and mobile application.
 Systems engineer of a startup building a web and mobile application.
 
 - Set up and managed all the server environments and application services
-  including OS, web, app, cache and database services, load balancers, DNS, content delivery
-  network, process and system monitors, message broker and task queues.
+  including OS, web, app, cache and database services, load balancers, DNS,
+  content delivery network, process and system monitors, message broker and
+  task queues.
 - Designed the overall application architecture, reviewed client and
   server-side code and prototyped the mobile application.
 - Established and tested systems failover across data centers. Performed load
@@ -38,11 +39,18 @@ Systems engineer of a startup building a web and mobile application.
 - Performed firewall management and SSL certificate management at the load
   balancer, web server and database layers.
 
-### Previous Gigs
+### Odd jobs across public and private sectors
 
-Contract and consulting work across many private and public sectors.
+- End to end BI
+  - Capacity, HA and DR planning. 
+  - ETL, warehousing and analysis services.
+- Consulting and training with a database performance focus.
+- Software development
+  - Supply chain management; inventory control.
+  - Regulatory control (US Customs).
+  - Accounts Receivable & Payable integration to General Ledger systems.
 
-Platforms include Microsoft, Oracle, MSSQL, etc.
+#### At
 
 - Homeland Security & Emergency Management 2013
 - California Lottery 2013
