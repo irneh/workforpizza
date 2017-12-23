@@ -66,9 +66,9 @@ Platforms include Microsoft, Oracle, MSSQL, etc.
 
 ### Education
 
-Physics at the University of California at Berkeley.
-Fluent English and French; practical Spanish.
+- Physics at the University of California at Berkeley.
+- Fluent English and French; practical Spanish.
 
 ### Extracurriculars
 
-Photography, cycling, hiking.
+- Photography, cycling, hiking.
