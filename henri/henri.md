@@ -54,13 +54,13 @@ Systems engineer of a startup building a web and mobile application.
 
 #### At
 
-- Homeland Security & Emergency Management 2013
+- Homeland Security & Emergency Management (AK) 2013
 - California Lottery 2013
 - Volcano Corporation 2012
 - Toxic Substances Control 2011 - 2012
 - California Lottery 2010 - 2011
 - IMS Health 2009 - 2010
-- Superintendent of Public Instruction 2009
+- Superintendent of Public Instruction (WA) 2009
 - Department of Transportation 2008 - 2009
 - Victim Compensation Claims Board 2008
 - Health Net 2007 - 2008
