@@ -10,6 +10,8 @@ Streaming music, international trade, payment card industry, health care, health
 insurance, public health, pharmaceutical data mining, investments & pensions,
 gaming, corrections, B2B.
 
+### Recently
+
 #### [Pulselocker](https://pulselocker.com) 2015 - 2017
 
 Primary systems engineer of a company delivering music streaming, search and
