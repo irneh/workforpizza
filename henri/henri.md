@@ -10,18 +10,17 @@ Streaming music, international trade, payment card industry, health care, health
 insurance, public health, pharmaceutical data mining, investments & pensions,
 gaming, corrections, B2B.
 
-### Recent
+#### [Pulselocker](https://pulselocker.com) 2015 - 2017
 
-Platforms include Linux, AWS, colo, HAProxy, Nginx, JavaScript, uWSGI/Python,
-Angular.js, PostgreSQL, RabbitMQ, Cassandra, ElasticSearch, Couchbase, hardware
-firewalls, Cisco Meraki.
+Primary systems engineer of a company delivering music streaming, search and
+discovery. Did most everything but code the API. Responsible on:
 
-#### [Pulselocker](https://pulselocker.com) 2015 - present
-
-Primary systems engineer of a company delivering music streaming, search,
-discovery and performance.
-
-- Good times.
+- Data center work; Cisco Meraki switches, storage pods, firewalls, (etc.?).
+- AWS -- IAM, EC2, S3, SNS, SES (etc.?).
+- Nginx web behind HAProxy; DDOS rate limiting/blacklisting.
+- Managements of PostgreSQL, ElasticSearch, Couchbase and Cassandra data stores.
+- Debug and perf testing optimizitations of Python & Node API.
+- Fiddling with Angular front end.
 
 #### [Scoot](https://scoot.io) 2012 - 2015
 
