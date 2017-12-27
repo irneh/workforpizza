@@ -6,9 +6,17 @@ Tech work with startups and consulting in private and public sectors.
 
 ### Industry Experience
 
-Streaming music, international trade, payment card industry, health care, health
-insurance, public health, pharmaceutical data mining, investments & pensions,
-gaming, corrections, B2B.
+- Streaming music
+- International trade
+- Payment card industry
+- Health care
+- Health insurance
+- Public health
+- Pharmaceutical data mining
+- Investments & pensions
+- Gaming
+- Corrections
+- B2B
 
 ### Recently
 
