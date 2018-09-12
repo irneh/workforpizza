@@ -37,7 +37,7 @@ And can affect taste.
 
 ![](07-discard-stems.jpg)
 
-- Reggiano Parmesan. About that much.
+- Reggiano Parmesan. About that much, on the left.
 
 ![](08-cheese.jpg)
 
@@ -58,7 +58,7 @@ And can affect taste.
 
 ![](12-save-for-later.jpg)
 
-- Your cut broccoli and mozzarella. I use whole milk. You can get fancy stuff if you like.
+- Your cut broccoli and mozzarella. I use the ~$5 whole milk cheese. You can get fancy stuff if you like but those are hit and miss.
 
 ![](13-broc-cheese.jpg)
 
