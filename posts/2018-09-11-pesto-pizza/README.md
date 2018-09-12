@@ -32,7 +32,7 @@ And can affect taste.
 ![](06-cool.jpg)
 
 - Squeeze out water.
-- Rip off the leaves.
+- Rip off the leaves - one big twist.
 - Discard stems. YMMV. Try it sometime with stems for more volume, but see how you like the taste.
 
 ![](07-discard-stems.jpg)
