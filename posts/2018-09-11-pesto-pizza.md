@@ -1,2 +1,0 @@
-# Hi
-![pizza](pizza.png)
