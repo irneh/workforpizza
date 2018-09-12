@@ -1,14 +1,15 @@
 # Veggie Pesto Pizza
 
-Half wild-crafted and hand foraged. Half supermarket stock.
+Half wild-crafted/hand-foraged. Half supermarket stock.
 
 ## Pine nuts
 - Brown in a pan.
 - Use about a large handful. Image below is a subset.
+- Just nuts in pan. No oil. (Photo is misleading.)
 
 ![](01-brown.jpg)
 
-- Add extra virgin olive oil
+- Add extra virgin olive oil.
 
 ![](02-oil.jpg)
 
@@ -19,10 +20,11 @@ And can affect taste.
 ![](03-boil.jpg)
 
 - Protect hands from steam.
+- Or use dedicated strainer thingie.
 
 ![](04-glove.jpg)
 
-- Submerge for about 5-7 seconds. Not 10. You might see the basil go darker green.
+- Submerge for about 5-7 seconds. Not 10. You might see the basil go darker green which is good.
 
 ![](05-blanch.jpg)
 
@@ -32,7 +34,7 @@ And can affect taste.
 
 - Squeeze out water.
 - Rip off the leaves.
-- Discard stems. YMMV. Try it with stems for more actual pesto, but see how you like the taste.
+- Discard stems. YMMV. Try it sometime with stems for more volume, but see how you like the taste.
 
 ![](07-discard-stems.jpg)
 
@@ -44,7 +46,8 @@ And can affect taste.
 
 ![](09-garlic.jpg)
 
-- Blend. Mortar & pestle just to look bougie.
+- Blend.
+- Mortar & pestle just to look bougie.
 
 ![](10-blend.jpg)
 
@@ -69,6 +72,7 @@ And can affect taste.
 ![](15-crusts.jpg)
 
 - Use pizza shell as sizing guide for broccoli. I do super-full, nearing a second layer.
+- In other words, load your raw broccoli from the left bowl into the crust. Then move it to the right bowl for the oil job.
 
 ![](16-size-brocc.jpg)
 
