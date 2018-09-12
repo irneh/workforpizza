@@ -2,8 +2,7 @@
 
 Half wild-crafted/hand-foraged. Half supermarket stock.
 
-## Pine nuts
-- Brown in a pan.
+- Brown pine nuts in a pan.
 - Use about a large handful. Image below is a subset.
 - Just nuts in pan. No oil. (Photo is misleading.)
 
