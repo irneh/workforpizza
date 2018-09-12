@@ -70,8 +70,10 @@ And can affect taste.
 
 ![](15-crusts.jpg)
 
-- Use pizza shell as sizing guide for broccoli. I do super-full, nearing a second layer.
-- In other words, load your raw broccoli from the left bowl into the crust. One you have your desired amount, move it to the right bowl for the oil job.
+- Use pizza shell as sizing guide for broccoli. I do super-full, nearing a
+  second layer.
+- In other words, load your raw broccoli from the left bowl into the crust.
+  Once you have your desired amount, move it to the right bowl for the oil job.
 
 ![](16-size-brocc.jpg)
 
