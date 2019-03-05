@@ -22,9 +22,10 @@ Tech work with startups and consulting in private and public sectors.
 ### Recently
 
 #### [EA Capital Games](https://www.ea.com/studios/capital-games) 2018 - 2019
+(Contractor)
 
-Contractor. One of three systems engineers supporting back end services for a
-popular mobile game (Galaxy of Heroes). Responsible on:
+One of three systems engineers supporting back end services for a popular
+mobile game (Galaxy of Heroes). Responsible on:
 
 - AWS: EC2 application load balancers; auto-scaling groups; MySQL RDS;
   DynamoDB; IAM; boto python & bash scripting; cross-account resource sharing;
