@@ -28,9 +28,7 @@ popular mobile game (Galaxy of Heroes). Responsible on:
 
 - AWS: EC2 application load balancers; auto-scaling groups; MySQL RDS;
   DynamoDB; IAM; boto python & bash scripting; cross-account resource sharing;
-  VPC
-- Elasticache Redis & Memcached; RedisLabs
-- Elasticsearch
+  VPC; Elasticache Memcached & Redis (& RedisLabs); Elasticsearch 
 - Java on Tomcat runtime environment
 - Salt configuration management
 - DNS Made Easy; Akamai CDN
