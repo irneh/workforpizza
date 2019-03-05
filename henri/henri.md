@@ -35,6 +35,7 @@ popular mobile game (Galaxy of Heroes). Responsible on:
 - Salt configuration management
 - DNS Made Easy; Akamai CDN
 - Jenkins; Perforce; Git against AWS CodeCommit
+- Datadog; Loggly
 
 #### [Pulselocker](https://pulselocker.com) 2015 - 2017
 
