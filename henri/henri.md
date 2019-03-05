@@ -51,8 +51,6 @@ discovery. Responsible on:
 
 #### [Scoot](https://scoot.io) 2012 - 2015
 
-Co-founder of a startup building a web and mobile application.
-
 Systems engineer of a startup building a web and mobile application.
 
 - Set up and managed all the server environments and application services
